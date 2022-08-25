@@ -11,7 +11,7 @@ public class Fibonacci {
             num= sc.nextInt();
         }while(num<=1);
   
-        System.out.println("Los " + num + " primeros números de la serie fibonacci son:");                 
+        System.out.println("Los " + num + " primeros números de la serie Fibonacci son:");                 
 
         fib=1;
         fib2=1;
